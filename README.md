@@ -8,6 +8,8 @@
 
 ![](https://raw.githubusercontent.com/hung92/open-dark-theme/main/assets/demo1.png)
 ![](https://raw.githubusercontent.com/hung92/open-dark-theme/main/assets/demo2.png)
+![](https://raw.githubusercontent.com/hung92/open-dark-theme/main/assets/demo3.png)
+![](https://raw.githubusercontent.com/hung92/open-dark-theme/main/assets/demo4.png)
 
 ## Installing
 

@@ -2,7 +2,7 @@
   "name": "open-dark",
   "displayName": "Open Dark",
   "description": "VSCode dark theme.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "hung92",
   "engines": {
     "vscode": "^1.60.0"
@@ -12,13 +12,11 @@
   ],
   "keywords": [
     "theme",
-    "dark",
-    "dark+",
+    "opendark",
+    "onedark+",
     "onedark",
-    "onedarkpro",
     "vscode",
-    "trending",
-    "opendark"
+    "trending"
   ],
   "icon": "icon.png",
   "contributes": {
@@ -27,6 +25,11 @@
         "label": "Open Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Open Dark-color-theme.json"
+      },
+      {
+        "label": "One Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Plus-color-theme.json"
       }
     ]
   },
