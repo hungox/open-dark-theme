@@ -2,7 +2,7 @@
   "name": "open-dark",
   "displayName": "Open Dark",
   "description": "VSCode dark theme.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "hung92",
   "engines": {
     "vscode": "^1.60.0"
