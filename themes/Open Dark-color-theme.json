@@ -455,13 +455,6 @@
       }
     },
     {
-      "name": "class",
-      "scope": ["entity.name.type.class"],
-      "settings": {
-        "foreground": "#3aad5d"
-      }
-    },
-    {
       "name": "method",
       "scope": ["meta.directive.vue"],
       "settings": {
@@ -472,7 +465,7 @@
       "name": "import",
       "scope": ["keyword.other.important"],
       "settings": {
-        "foreground": "#ff0000"
+        "foreground": "#ff5c57"
       }
     },
     {
@@ -569,10 +562,16 @@
       "scope": [
         "entity.name.type.class",
         "entity.other.inherited-class",
-        "entity.other.attribute-name.class"
       ],
       "settings": {
         "foreground": "#ff5c57"
+      }
+    },
+    {
+      "name": "class",
+      "scope": ["entity.other.attribute-name.class"],
+      "settings": {
+        "foreground": "#3aad5d"
       }
     },
     {
